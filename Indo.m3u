@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://devanyahya.web.id/mnclogo.png" tvg-country="ID" tvg-url="" group-title="",MNCTV
-https://app-etslive-2.vidio.com/live/870/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjg3MCwicGxheWxpc3RfdXJsIjoiaHR0cHM6Ly9hcHAtZXRzbGl2ZS0yLnZpZGlvLmNvbS9saXZlLzg3MC9tYXN0ZXIubTN1OCJ9LCJleHAiOjE1OTIwNTEzMjcsImlzcyI6Ind3dy52aWRpby5jb20ifQ.fPZC1NG50FuYyXQzsqhWoPEZrRFa6ASQ7JfMPhD2tAfTmm7vJirsy5wA1o6CbddNz3ql6wgQ4Fo1P4F4UN6tx5gQVHTgozklwyaVftm3c0LFO1rH9nCfjBJ-Dcw_THZFE0E5LGZvKaFXkHiQwahrFGkrpGUFusFpq3v5Le3NjV1_mIrbAKSAEJXWvGpx0nVxJNLAEo5gNJuWz_lCULPOEC3h9DLhSyjHnF7JTKzq48vKo4SjvOwp01tyiPHKAYFIoUP08V5xv2SkxCKkqYWmUnmTSf_FP6lL0BxdotZjGoyAsYwEw-1jXHdwEt5bvmSqzoPpHI0mRxC26jEG4RuOjA&trace_id=1592050548513612901
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" tvg-country="ID" tvg-url="" group-title="",Global TV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" tvg-country="ID" tvg-url="" group-title="",TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" tvg-country="ID" tvg-url="" group-title="",TRANS TV HD
